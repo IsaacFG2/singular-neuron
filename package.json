@@ -1,6 +1,6 @@
 {
   "name": "@isaacfg/singular-neuron",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "A singular neuron with ReLU activation.",
   "main": "index.js",
   "author": "Isaac Ferreira Garcês <isaacferreiragarces2609@gmail.com>",
@@ -14,7 +14,7 @@
     "ai"
   ],
   "dependencies": {
-    "@isaacfg/singular-neuron": "^0.0.1"
+    "@isaacfg/singular-neuron": "^0.0.6"
   },
   "homepage": "https://github.com/IsaacFG2/singular-neuron#readme",
   "bugs": {

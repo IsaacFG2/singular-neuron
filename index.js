@@ -22,7 +22,7 @@
 
 exports.singleNeuron = function singleNeuron(input, weights, bias) {
   let output = 0
-  for (let i = 0; i < input.length - 1; i++) {
+  for (let i = 0; i < input.length; i++) {
     output = output + (input[i] * weights[i])
   }
   output = output + bias
